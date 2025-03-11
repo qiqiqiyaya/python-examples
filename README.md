@@ -1,2 +1,2 @@
-# my-python-example-
-leaning Python case
+# python-examples
+
